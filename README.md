@@ -1,0 +1,2 @@
+### Alcoolmètre - Armelle Loiseau
+Le test n'est pas du tout fini, je m'en excuse. J'y ai déjà passé 5h, et comme je déménage ce week-end, je ne pouvais pas y passer plus de temps. Du coup je n'ai pas du tout touché au style, j'esperais au moins venir au bout de la logique mais je bloque.
